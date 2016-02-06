@@ -1,4 +1,4 @@
-# Rocket
+# Rocket 🚀
 
 Rocket is a chat bot built on the Hubot framework.
 
