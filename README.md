@@ -1,6 +1,6 @@
 # Rocket
 
-Rocket is a chat bot built on the [Hubot][hubot] framework.
+Rocket is a chat bot built on the Hubot framework.
 
 ## Running 
 
@@ -9,3 +9,7 @@ Rocket is a chat bot built on the [Hubot][hubot] framework.
 3. `cd rocket`
 4. `npm install`
 5. `bin/hubot` to run Rocket
+
+## Deployment to Production
+
+`ssh` into the prod box, and run the start script. 
